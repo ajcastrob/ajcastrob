@@ -18,8 +18,6 @@ Soy **Desarrollador Frontend** con enfoque en **React**, **JavaScript** y ecosis
 
 Cada proyecto en mi portafolio refleja mi enfoque de aprendizaje práctico: construir, romper, entender y mejorar. Busco activamente mi primera oportunidad profesional como desarrollador en una empresa que valore el talento en crecimiento y la actitud de mejora continua.
 
-📄 **Residente Especial con Carné de Extranjería vigente – autorizado para trabajo formal en Perú.**
-
 ---
 
 ## Habilidades técnicas
@@ -46,18 +44,18 @@ Cada proyecto en mi portafolio refleja mi enfoque de aprendizaje práctico: cons
 
 ## Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [Tic-Tac-Toe](https://github.com/ajcastrob/Tic-Tac-Toe) | Juego clásico de tres en raya construido con React. Estados dinámicos, lógica de turnos, detección de ganador y reinicio de partida. | React, JavaScript, CSS |
-| [Mouse-Follower](https://github.com/ajcastrob/Mouse-Follower) | Componente React con efecto interactivo que sigue el cursor del usuario. Ideal para entender eventos de mouse, estado y renderizado en tiempo real. | React, CSS |
-| [api-movie](https://github.com/ajcastrob/api-movie) | Aplicación web que consume una API externa de películas. Búsqueda, filtros y visualización dinámica de resultados. | JavaScript, CSS, Fetch API |
-| [api-books](https://github.com/ajcastrob/api-books) | Consumo de API de libros con interfaz limpia. Búsqueda por título/autor, vista de resultados y diseño responsive. | JavaScript, CSS |
-| [Memory Game](https://github.com/ajcastrob/memory-game) | Juego de memoria clásico con JavaScript: emparejamiento de cartas, control de tiempo y contador de movimientos. | JavaScript, CSS, HTML |
-| [PacmanJS](https://github.com/ajcastrob/pacmanjs) | Recreación del clásico Pac-Man en JavaScript: lógica de movimiento, colisiones, recolección y detección de fantasmas. | JavaScript, Canvas/HTML |
-| [Buscavidas (Buscaminas)](https://github.com/ajcastrob/Buscavidas) | Implementación del buscaminas clásico con JavaScript: generación de tablero, celdas adyacentes, banderas y detección de fin de juego. | JavaScript, CSS |
-| [Portafolio Proyecto](https://github.com/ajcastrob/Portafolio-Proyecto) | Sitio personal con SCSS, diseño responsive y buenas prácticas de maquetación. | SCSS, HTML |
-| [Modern Art Gallery](https://github.com/ajcastrob/modert_art_gallery) | Maquetación de sitio para galería de arte moderno con enfoque en diseño visual y responsive. | SCSS, HTML |
-| [Portafolio Minimalista](https://github.com/ajcastrob/portafolio-minimalista) | Portafolio personal desarrollado con TypeScript, diseño limpio y minimalista. | TypeScript, HTML, CSS |
+| Proyecto                                                                      | Descripción                                                                                                                                         | Tecnologías                |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [Tic-Tac-Toe](https://github.com/ajcastrob/Tic-Tac-Toe)                       | Juego clásico de tres en raya construido con React. Estados dinámicos, lógica de turnos, detección de ganador y reinicio de partida.                | React, JavaScript, CSS     |
+| [Mouse-Follower](https://github.com/ajcastrob/Mouse-Follower)                 | Componente React con efecto interactivo que sigue el cursor del usuario. Ideal para entender eventos de mouse, estado y renderizado en tiempo real. | React, CSS                 |
+| [api-movie](https://github.com/ajcastrob/api-movie)                           | Aplicación web que consume una API externa de películas. Búsqueda, filtros y visualización dinámica de resultados.                                  | JavaScript, CSS, Fetch API |
+| [api-books](https://github.com/ajcastrob/api-books)                           | Consumo de API de libros con interfaz limpia. Búsqueda por título/autor, vista de resultados y diseño responsive.                                   | JavaScript, CSS            |
+| [Memory Game](https://github.com/ajcastrob/memory-game)                       | Juego de memoria clásico con JavaScript: emparejamiento de cartas, control de tiempo y contador de movimientos.                                     | JavaScript, CSS, HTML      |
+| [PacmanJS](https://github.com/ajcastrob/pacmanjs)                             | Recreación del clásico Pac-Man en JavaScript: lógica de movimiento, colisiones, recolección y detección de fantasmas.                               | JavaScript, Canvas/HTML    |
+| [Buscavidas (Buscaminas)](https://github.com/ajcastrob/Buscavidas)            | Implementación del buscaminas clásico con JavaScript: generación de tablero, celdas adyacentes, banderas y detección de fin de juego.               | JavaScript, CSS            |
+| [Portafolio Proyecto](https://github.com/ajcastrob/Portafolio-Proyecto)       | Sitio personal con SCSS, diseño responsive y buenas prácticas de maquetación.                                                                       | SCSS, HTML                 |
+| [Modern Art Gallery](https://github.com/ajcastrob/modert_art_gallery)         | Maquetación de sitio para galería de arte moderno con enfoque en diseño visual y responsive.                                                        | SCSS, HTML                 |
+| [Portafolio Minimalista](https://github.com/ajcastrob/portafolio-minimalista) | Portafolio personal desarrollado con TypeScript, diseño limpio y minimalista.                                                                       | TypeScript, HTML, CSS      |
 
 ---
 
